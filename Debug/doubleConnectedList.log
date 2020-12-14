@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\HP\source\repos\doubleConnectedList\dualList.h(247,15): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\doubleConnectedList\dualList.h(251,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\doubleConnectedList\dualList.h(251,38): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\doubleConnectedList\dualList.h(256,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\doubleConnectedList\dualList.h(256,38): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\doubleConnectedList\Source.cpp(5,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\HP\source\repos\doubleConnectedList\Source.cpp(33,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\doubleConnectedList\Source.cpp(35,23): warning C4018: <: несоответствие типов со знаком и без знака
+  doubleConnectedList.vcxproj -> C:\Users\HP\source\repos\doubleConnectedList\Debug\doubleConnectedList.exe
